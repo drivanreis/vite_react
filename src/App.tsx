@@ -21,13 +21,13 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
+        <h3>
+          Ivan Reis - FullStack Developer
+        </h3>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <h3>
+        Ao infinito e além !!!
+      </h3>
     </>
   )
 }
