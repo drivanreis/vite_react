@@ -16,18 +16,25 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h2>Vite + React</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <h3>
-          Ivan Reis - FullStack Developer
+          Ivan Reis - FullStack Developer <br />
+          #VCV <br/>
+          1º Projeto Publicado no GitHubPages !!! <br/>
+          Ao infinito e além !!!
         </h3>
       </div>
-      <h3>
-        Ao infinito e além !!!
-      </h3>
+      <h4>
+      Eu já tenho vários projetos no GitHub.<br/>
+      Em Python, PHP e JS.<br/>
+      Mas essa é a primeira vez que eu consigo colocar<br/>
+      um projeto Vite-React escrito em TypeScript no GitHub Pages.
+      </h4>
+      <p>Até que em fim. 27/06/2023</p>
     </>
   )
 }
